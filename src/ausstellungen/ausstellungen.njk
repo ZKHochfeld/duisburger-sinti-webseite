@@ -1,0 +1,20 @@
+---
+layout: base.njk
+titel: Ausstellungen
+permalink: /ausstellungen/
+eleventyExcludeFromCollections: true
+---
+<h1>Ausstellungen</h1>
+
+<div class="kartenraster">
+  {% for eintrag in collections.ausstellungen %}
+  <a class="karte" href="{{ eintrag.url }}">
+    {% if eintrag.data.titelbild %}<img src="{{ eintrag.data.titelbild }}" alt="">{% endif %}
+    <div class="karte__inhalt">
+      <span class="abzeichen">Ausstellung</span>
+      <h3>{{ eintrag.data.title }}</h3>
+      <p class="karte__meta">{{ eintrag.data.date | datum }}{% if eintrag.data.ort %} · {{ eintrag.data.ort }}{% endif %}</p>
+    </div>
+  </a>
+  {% endfor %}
+</div>

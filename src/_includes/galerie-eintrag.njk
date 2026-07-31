@@ -1,0 +1,16 @@
+---
+layout: base.njk
+---
+<article>
+  <span class="abzeichen">Foto-Galerie</span>
+  <h1>{{ title }}</h1>
+  <p class="karte__meta">{{ date | datum }}</p>
+  {{ content | safe }}
+  {% if fotos and fotos.length %}
+  <div class="foto-galerie">
+    {% for foto in fotos %}
+    <img src="{{ foto }}" alt="" loading="lazy">
+    {% endfor %}
+  </div>
+  {% endif %}
+</article>

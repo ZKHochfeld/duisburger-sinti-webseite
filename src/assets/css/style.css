@@ -1,0 +1,177 @@
+:root {
+  --farbe-text: #221a15;
+  --farbe-hintergrund: #fdfaf6;
+  --farbe-akzent: #b5442e;
+  --farbe-akzent-dunkel: #8a3220;
+  --farbe-rand: #e4d9cc;
+  --farbe-karte: #ffffff;
+  --schrift: "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
+  --radius: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --farbe-text: #f2e9e0;
+    --farbe-hintergrund: #1a1512;
+    --farbe-akzent: #e0704f;
+    --farbe-akzent-dunkel: #f2916f;
+    --farbe-rand: #3a2f27;
+    --farbe-karte: #241d18;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: var(--schrift);
+  background: var(--farbe-hintergrund);
+  color: var(--farbe-text);
+  line-height: 1.6;
+}
+
+.wrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  background: var(--farbe-karte);
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  z-index: 100;
+}
+
+a { color: var(--farbe-akzent-dunkel); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.site-header {
+  border-bottom: 1px solid var(--farbe-rand);
+  background: var(--farbe-karte);
+}
+.site-header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.25rem;
+}
+.site-header__logo {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--farbe-text);
+}
+.site-nav__toggle {
+  display: none;
+  background: none;
+  border: 1px solid var(--farbe-rand);
+  border-radius: var(--radius);
+  padding: 0.4rem 0.8rem;
+  color: var(--farbe-text);
+  font-family: inherit;
+}
+.site-nav__list {
+  display: flex;
+  gap: 1.25rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+}
+.site-nav__list a { color: var(--farbe-text); font-weight: 500; }
+.site-nav__list a[aria-current="page"] { color: var(--farbe-akzent-dunkel); border-bottom: 2px solid var(--farbe-akzent); }
+
+main { padding: 2.5rem 1.25rem 4rem; }
+
+.site-footer {
+  border-top: 1px solid var(--farbe-rand);
+  padding: 1.5rem 0;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 0 2rem;
+}
+.hero h1 { font-size: 2.4rem; margin-bottom: 0.5rem; }
+.hero p { font-size: 1.15rem; opacity: 0.85; max-width: 640px; margin: 0 auto; }
+
+.kartenraster {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.karte {
+  background: var(--farbe-karte);
+  border: 1px solid var(--farbe-rand);
+  border-radius: var(--radius);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.karte img { width: 100%; aspect-ratio: 4/3; object-fit: cover; }
+.karte__inhalt { padding: 1rem 1.25rem 1.25rem; }
+.karte__inhalt h3 { margin: 0 0 0.4rem; font-size: 1.1rem; }
+.karte__meta { font-size: 0.85rem; opacity: 0.7; margin-bottom: 0.5rem; }
+.abzeichen {
+  display: inline-block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  background: var(--farbe-akzent);
+  color: #fff;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  margin-bottom: 0.5rem;
+}
+
+.foto-galerie {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+}
+.foto-galerie img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: var(--radius);
+  cursor: zoom-in;
+}
+
+.video-einbettung {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: #000;
+  margin: 1.5rem 0;
+}
+.video-einbettung iframe { width: 100%; height: 100%; border: 0; }
+
+@media (max-width: 720px) {
+  .site-nav__toggle { display: inline-block; }
+  .site-nav__list {
+    display: none;
+    flex-direction: column;
+    gap: 0.75rem;
+    position: absolute;
+    right: 1.25rem;
+    top: 100%;
+    background: var(--farbe-karte);
+    border: 1px solid var(--farbe-rand);
+    border-radius: var(--radius);
+    padding: 1rem 1.5rem;
+  }
+  .site-nav__list.ist-offen { display: flex; }
+  .site-nav { position: relative; }
+}

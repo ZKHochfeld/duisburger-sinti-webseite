@@ -1,0 +1,20 @@
+---
+layout: base.njk
+titel: Foto-Galerien
+permalink: /galerien/
+eleventyExcludeFromCollections: true
+---
+<h1>Foto-Galerien</h1>
+
+<div class="kartenraster">
+  {% for eintrag in collections.galerien %}
+  <a class="karte" href="{{ eintrag.url }}">
+    {% if eintrag.data.titelbild %}<img src="{{ eintrag.data.titelbild }}" alt="">{% endif %}
+    <div class="karte__inhalt">
+      <span class="abzeichen">Galerie</span>
+      <h3>{{ eintrag.data.title }}</h3>
+      <p class="karte__meta">{{ eintrag.data.date | datum }}</p>
+    </div>
+  </a>
+  {% endfor %}
+</div>

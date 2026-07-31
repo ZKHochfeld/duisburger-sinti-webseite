@@ -1,0 +1,85 @@
+backend:
+  name: github
+  repo: ZKHochfeld/duisburger-sinti-webseite
+  branch: main
+  base_url: https://duisburgersinti-cms-auth.example.workers.dev
+  auth_endpoint: auth
+
+publish_mode: simple
+media_folder: src/assets/img/uploads
+public_folder: /assets/img/uploads
+
+locale: de
+
+collections:
+  - name: presse
+    label: Pressemitteilungen
+    folder: src/presse
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Titel, name: title, widget: string }
+      - { label: Datum, name: date, widget: datetime, format: "YYYY-MM-DD" }
+      - { label: Quelle, name: quelle, widget: string, required: false }
+      - { label: Link zum Original, name: link, widget: string, required: false }
+      - { label: Titelbild, name: titelbild, widget: image, required: false }
+      - { label: Text, name: body, widget: markdown }
+      - { label: Layout, name: layout, widget: hidden, default: presse-eintrag.njk }
+      - { label: Kategorie, name: kategorie, widget: hidden, default: Presse }
+
+  - name: ausstellungen
+    label: Ausstellungen
+    folder: src/ausstellungen
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Titel, name: title, widget: string }
+      - { label: Datum, name: date, widget: datetime, format: "YYYY-MM-DD" }
+      - { label: Ort, name: ort, widget: string, required: false }
+      - { label: Titelbild, name: titelbild, widget: image, required: false }
+      - { label: Beschreibung, name: body, widget: markdown }
+      - { label: Fotos, name: fotos, widget: list, field: { label: Foto, name: foto, widget: image }, required: false }
+      - { label: Layout, name: layout, widget: hidden, default: ausstellung-eintrag.njk }
+      - { label: Kategorie, name: kategorie, widget: hidden, default: Ausstellung }
+
+  - name: galerien
+    label: Foto-Galerien
+    folder: src/galerien
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Titel, name: title, widget: string }
+      - { label: Datum, name: date, widget: datetime, format: "YYYY-MM-DD" }
+      - { label: Beschreibung, name: body, widget: markdown, required: false }
+      - { label: Fotos, name: fotos, widget: list, field: { label: Foto, name: foto, widget: image } }
+      - { label: Layout, name: layout, widget: hidden, default: galerie-eintrag.njk }
+      - { label: Kategorie, name: kategorie, widget: hidden, default: Foto-Galerie }
+
+  - name: videos
+    label: Videos
+    folder: src/videos
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Titel, name: title, widget: string }
+      - { label: Datum, name: date, widget: datetime, format: "YYYY-MM-DD" }
+      - { label: YouTube-Video-ID, name: youtubeId, widget: string, required: false, hint: "Die ID aus der YouTube-URL, z.B. bei youtube.com/watch?v=ABC123 ist es ABC123" }
+      - { label: Vimeo-Video-ID, name: vimeoId, widget: string, required: false }
+      - { label: Kategorie, name: kategorie, widget: hidden, default: Video }
+      - { label: Permalink, name: permalink, widget: hidden, default: false }
+
+  - name: seiten
+    label: Seiten
+    files:
+      - name: ueber-uns
+        label: Über uns
+        file: src/ueber-uns.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Text, name: body, widget: markdown }
+      - name: kontakt
+        label: Kontakt
+        file: src/kontakt.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Text, name: body, widget: markdown }

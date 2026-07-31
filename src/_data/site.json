@@ -1,0 +1,16 @@
+{
+  "titel": "Duisburger Sinti",
+  "beschreibung": "Archiv der Aktivitäten, Pressemitteilungen, Ausstellungen und Foto-/Videogalerien des Duisburger Sinti Vereins.",
+  "url": "https://duisburgersinti.de",
+  "kontaktEmail": "kontakt@sgdv.org",
+  "nav": [
+    { "titel": "Start", "pfad": "/" },
+    { "titel": "Über uns", "pfad": "/ueber-uns/" },
+    { "titel": "Archiv", "pfad": "/archiv/" },
+    { "titel": "Presse", "pfad": "/presse/" },
+    { "titel": "Ausstellungen", "pfad": "/ausstellungen/" },
+    { "titel": "Foto-Galerien", "pfad": "/galerien/" },
+    { "titel": "Videos", "pfad": "/videos/" },
+    { "titel": "Kontakt", "pfad": "/kontakt/" }
+  ]
+}

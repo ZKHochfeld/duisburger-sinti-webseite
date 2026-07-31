@@ -1,0 +1,20 @@
+---
+layout: base.njk
+titel: Presse
+permalink: /presse/
+eleventyExcludeFromCollections: true
+---
+<h1>Pressemitteilungen</h1>
+
+<div class="kartenraster">
+  {% for eintrag in collections.presse %}
+  <a class="karte" href="{{ eintrag.url }}">
+    {% if eintrag.data.titelbild %}<img src="{{ eintrag.data.titelbild }}" alt="">{% endif %}
+    <div class="karte__inhalt">
+      <span class="abzeichen">Presse</span>
+      <h3>{{ eintrag.data.title }}</h3>
+      <p class="karte__meta">{{ eintrag.data.date | datum }} {% if eintrag.data.quelle %}· {{ eintrag.data.quelle }}{% endif %}</p>
+    </div>
+  </a>
+  {% endfor %}
+</div>

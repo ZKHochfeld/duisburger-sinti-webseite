@@ -1,0 +1,27 @@
+---
+layout: base.njk
+titel: Start
+---
+<section class="hero">
+  <h1>Duisburger Sinti</h1>
+  <p>{{ site.beschreibung }}</p>
+</section>
+
+<section>
+  <h2>Aktuelles aus dem Archiv</h2>
+  <div class="kartenraster">
+    {% for eintrag in collections.archiv %}
+    {% if loop.index <= 6 %}
+    <a class="karte" href="{{ eintrag.url }}">
+      {% if eintrag.data.titelbild %}<img src="{{ eintrag.data.titelbild }}" alt="">{% endif %}
+      <div class="karte__inhalt">
+        <span class="abzeichen">{{ eintrag.data.kategorie or "Archiv" }}</span>
+        <h3>{{ eintrag.data.title }}</h3>
+        <p class="karte__meta">{{ eintrag.data.date | datum }}</p>
+      </div>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+  <p><a href="/archiv/">Gesamtes Archiv ansehen &rarr;</a></p>
+</section>

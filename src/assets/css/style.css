@@ -1,22 +1,23 @@
 :root {
-  --farbe-text: #221a15;
-  --farbe-hintergrund: #fdfaf6;
-  --farbe-akzent: #b5442e;
-  --farbe-akzent-dunkel: #8a3220;
-  --farbe-rand: #e4d9cc;
-  --farbe-karte: #ffffff;
-  --schrift: "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
+  --farbe-text: #a62b0c;
+  --farbe-hintergrund: #f3f0e7;
+  --farbe-akzent: #a62b0c;
+  --farbe-akzent-dunkel: #7c2008;
+  --farbe-rand: #ddd6c5;
+  --farbe-karte: #fbfaf5;
+  --schrift: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  --schrift-headline: "Cardo", Georgia, "Times New Roman", serif;
   --radius: 10px;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --farbe-text: #f2e9e0;
-    --farbe-hintergrund: #1a1512;
-    --farbe-akzent: #e0704f;
-    --farbe-akzent-dunkel: #f2916f;
-    --farbe-rand: #3a2f27;
-    --farbe-karte: #241d18;
+    --farbe-text: #f0e4da;
+    --farbe-hintergrund: #211712;
+    --farbe-akzent: #e2794f;
+    --farbe-akzent-dunkel: #f2a884;
+    --farbe-rand: #40312a;
+    --farbe-karte: #2b1f19;
   }
 }
 
@@ -63,9 +64,17 @@ a:hover { text-decoration: underline; }
   padding: 1rem 1.25rem;
 }
 .site-header__logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--schrift-headline);
   font-size: 1.3rem;
   font-weight: 700;
   color: var(--farbe-text);
+}
+.site-header__logo img {
+  border-radius: 50%;
+  object-fit: cover;
 }
 .site-nav__toggle {
   display: none;
@@ -100,7 +109,9 @@ main { padding: 2.5rem 1.25rem 4rem; }
   text-align: center;
   padding: 3rem 0 2rem;
 }
-.hero h1 { font-size: 2.4rem; margin-bottom: 0.5rem; }
+.hero h1 { font-family: var(--schrift-headline); font-size: 2.6rem; margin-bottom: 0.5rem; }
+h1, h2, h3 { font-family: var(--schrift-headline); }
+main h1 { font-size: 2.1rem; }
 .hero p { font-size: 1.15rem; opacity: 0.85; max-width: 640px; margin: 0 auto; }
 
 .kartenraster {

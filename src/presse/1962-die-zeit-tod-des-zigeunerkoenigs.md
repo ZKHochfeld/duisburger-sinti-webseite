@@ -1,11 +1,11 @@
 ---
 layout: presse-eintrag.njk
-title: "Historischer Artikel aus dem Jahr 1962"
-date: 1962-01-01
+title: "Zwischen Kohlenhalde und Bahngleis"
+date: 1962-11-02
 kategorie: Presse
-quelle: Die Zeit
+quelle: "Die Zeit, Nr. 44/1962"
 titelbild:
 link:
 ---
 
-Historischer Artikel der Zeitung "Die Zeit" aus dem Jahr 1962 über die Sinti-Gemeinschaft in Duisburg. Der Artikel dokumentiert, mit welcher Sprache und Haltung über Sinti in der deutschen Presse jener Zeit berichtet wurde.
+"Die Zeit" berichtet vom Tod des Sippenoberhaupts Josef Gomanns am Duisburger Gleisdreieck in Hamborn. Der Artikel beschreibt primitive sanitäre Anlagen und fehlendes elektrisches Licht am Wohnplatz; sein Sohn berichtet, sein Vater habe der Stadt 10.000 DM in bar geboten, um einen besseren Wohnplatz zu bekommen.

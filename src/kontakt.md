@@ -6,6 +6,7 @@ titel: Kontakt
 
 # Kontakt
 
-E-Mail: [{{ site.kontaktEmail }}](mailto:{{ site.kontaktEmail }})
+Duisburger Sinti Verein e.V.
+Musfeldstraße 110, 47053 Duisburg
 
-*(Postadresse, Telefonnummer und Sprechzeiten hier ergänzen.)*
+E-Mail: [{{ site.kontaktEmail }}](mailto:{{ site.kontaktEmail }})

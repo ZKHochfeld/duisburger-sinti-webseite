@@ -1,7 +1,7 @@
 ---
 layout: presse-eintrag.njk
 title: "Das Leid der Sinti in Duisburg am Beispiel der Rosenbergs"
-date: 2023-01-13
+date: 2023-01-14
 kategorie: Presse
 quelle: "WAZ, Martin Kleinwächter"
 titelbild: /assets/img/uploads/presse/vorschau/rosenbergs.jpg

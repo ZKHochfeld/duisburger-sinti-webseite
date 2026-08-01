@@ -243,6 +243,73 @@ article > img {
   border: 1px solid var(--farbe-rand);
 }
 
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(20, 12, 8, 0.92);
+  backdrop-filter: blur(4px);
+}
+.lightbox.ist-offen { display: flex; }
+.lightbox__bild {
+  max-width: 90vw;
+  max-height: 85vh;
+  object-fit: contain;
+  border-radius: var(--radius-klein);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+.lightbox__schliessen {
+  position: absolute;
+  top: 1rem;
+  right: 1.25rem;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  border: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+.lightbox__schliessen:hover { background: rgba(255, 255, 255, 0.22); }
+.lightbox__pfeil {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  border: none;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+.lightbox__pfeil:hover { background: rgba(255, 255, 255, 0.22); }
+.lightbox__pfeil--zurueck { left: 1rem; }
+.lightbox__pfeil--vor { right: 1rem; }
+.lightbox__zaehler {
+  position: absolute;
+  bottom: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.9rem;
+  margin: 0;
+}
+@media (max-width: 640px) {
+  .lightbox__pfeil { width: 42px; height: 42px; font-size: 1.6rem; }
+  .lightbox__pfeil--zurueck { left: 0.4rem; }
+  .lightbox__pfeil--vor { right: 0.4rem; }
+}
+
 @media (max-width: 720px) {
   .site-nav__toggle { display: inline-block; }
   .site-nav__list {

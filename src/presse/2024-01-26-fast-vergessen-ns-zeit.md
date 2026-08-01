@@ -4,7 +4,7 @@ title: "Fast vergessen: Schicksale Duisburger Sinti in der NS-Zeit"
 date: 2024-01-26
 kategorie: Presse
 quelle: unbekannt
-titelbild:
+titelbild: /assets/img/uploads/presse/vorschau/fast-vergessen-ns-zeit.jpg
 link:
 ---
 

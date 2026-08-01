@@ -4,7 +4,7 @@ title: "\"Wir sind keine Menschen dritter Klasse\""
 date: 2023-05-10
 kategorie: Presse
 quelle: WAZ
-titelbild:
+titelbild: /assets/img/uploads/presse/vorschau/menschen-dritter-klasse.jpg
 link: https://www.lokal-harmonie.de/situation-der-sinti-in-duisburg
 ---
 

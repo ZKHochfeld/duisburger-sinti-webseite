@@ -4,7 +4,7 @@ title: "Zeitungsartikel zu Ratsherr Kohlhayer und der Situation der Duisburger S
 date: 1982-01-15
 kategorie: Presse
 quelle: WAZ
-titelbild:
+titelbild: /assets/img/uploads/presse/vorschau/kohlhayer.jpg
 link:
 ---
 

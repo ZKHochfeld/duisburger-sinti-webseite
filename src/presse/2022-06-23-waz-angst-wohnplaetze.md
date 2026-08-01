@@ -4,7 +4,7 @@ title: "Duisburger Sinti haben Angst um ihre angestammten Wohnplätze"
 date: 2022-06-23
 kategorie: Presse
 quelle: WAZ
-titelbild:
+titelbild: /assets/img/uploads/presse/vorschau/angst-wohnplaetze.jpg
 link:
 ---
 

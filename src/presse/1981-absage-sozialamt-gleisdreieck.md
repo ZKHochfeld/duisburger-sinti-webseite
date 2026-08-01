@@ -4,7 +4,7 @@ title: "Sintisippen Mettbach sagen Nein"
 date: 1981-01-01
 kategorie: Presse
 quelle: "WAZ, Anfang der 1980er-Jahre"
-titelbild:
+titelbild: /assets/img/uploads/galerien/pressearchiv-social/02-gleisdreieck-1980er.png
 link:
 ---
 

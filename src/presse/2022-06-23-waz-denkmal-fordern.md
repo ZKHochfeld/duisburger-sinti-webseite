@@ -4,7 +4,7 @@ title: "Warum die Duisburger Sinti ein Denkmal von der Stadt fordern"
 date: 2022-06-23
 kategorie: Presse
 quelle: WAZ
-titelbild:
+titelbild: /assets/img/uploads/presse/vorschau/denkmal-fordern.jpg
 link:
 ---
 

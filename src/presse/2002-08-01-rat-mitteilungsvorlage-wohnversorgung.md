@@ -4,7 +4,7 @@ title: "Mitteilungsvorlage: Dauerhafte Wohnversorgung von Sintifamilien"
 date: 2002-08-01
 kategorie: Dokument
 quelle: Rat der Stadt Duisburg
-titelbild:
+titelbild: /assets/img/uploads/presse/vorschau/mitteilungsvorlage-wohnversorgung.jpg
 link:
 ---
 

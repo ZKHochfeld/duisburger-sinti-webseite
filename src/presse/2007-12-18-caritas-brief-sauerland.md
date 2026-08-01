@@ -4,7 +4,7 @@ title: "Caritas Duisburg: Brief an Oberbürgermeister Sauerland"
 date: 2007-12-18
 kategorie: Dokument
 quelle: Caritasverband Duisburg
-titelbild:
+titelbild: /assets/img/uploads/presse/vorschau/caritas-brief-sauerland.jpg
 link:
 ---
 

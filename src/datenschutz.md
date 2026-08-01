@@ -27,6 +27,8 @@ Wir nutzen die Schriftarten "Cardo" und "Inter". Die Schriftdateien werden **lok
 
 Auf einigen Seiten binden wir Videos von YouTube ein. Wir nutzen dafür den datenschutzfreundlichen Modus über die Domain `youtube-nocookie.com`, der laut Anbieter keine Cookies zu Werbezwecken setzt, solange das Video nicht abgespielt wird. Beim Laden der eingebetteten Videoseite wird dennoch eine Verbindung zu Servern von Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland) bzw. Google LLC (USA) aufgebaut, wodurch Ihre IP-Adresse und Angaben zu Ihrem Endgerät übermittelt werden können. Dies geschieht auf Grundlage unseres berechtigten Interesses, unsere Videoinhalte anschaulich darzustellen (Art. 6 Abs. 1 lit. f DSGVO). Weitere Informationen: [Datenschutzerklärung von Google](https://policies.google.com/privacy).
 
+Auf der Startseite laden wir zudem ein Vorschaubild (Thumbnail) eines Videos direkt von `img.youtube.com`, wodurch ebenfalls eine Verbindung zu Google-Servern und eine Übermittlung Ihrer IP-Adresse stattfindet.
+
 ## Cookies, Tracking, Analyse
 
 Diese Website setzt **keine eigenen Cookies** und **keine Tracking- oder Analysetools** (z. B. Google Analytics) ein. Es findet keine Auswertung Ihres Nutzungsverhaltens durch uns statt.

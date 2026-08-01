@@ -8,6 +8,36 @@ titel: Start
 </section>
 
 <section>
+  <h2>Medien-Übersicht</h2>
+  <div class="medienraster">
+    <a class="medienkachel" href="/presse/" style="--bild: url('{{ collections.presse[0].data.titelbild or '/assets/img/uploads/logo/logo.jpg' }}')">
+      <div class="medienkachel__inhalt">
+        <span class="medienkachel__zahl">{{ collections.presse.length }}</span>
+        <span class="medienkachel__label">Presse &amp; Dokumente</span>
+      </div>
+    </a>
+    <a class="medienkachel" href="/ausstellungen/" style="--bild: url('{{ collections.ausstellungen[0].data.titelbild or '/assets/img/uploads/logo/logo.jpg' }}')">
+      <div class="medienkachel__inhalt">
+        <span class="medienkachel__zahl">{{ collections.ausstellungen.length }}</span>
+        <span class="medienkachel__label">Ausstellungen</span>
+      </div>
+    </a>
+    <a class="medienkachel" href="/galerien/" style="--bild: url('{{ collections.galerien[0].data.fotos[0] or '/assets/img/uploads/logo/logo.jpg' }}')">
+      <div class="medienkachel__inhalt">
+        <span class="medienkachel__zahl">{{ collections.galerien.length }}</span>
+        <span class="medienkachel__label">Foto-Galerien</span>
+      </div>
+    </a>
+    <a class="medienkachel" href="/videos/" style="--bild: url('https://img.youtube.com/vi/{{ collections.videos[0].data.youtubeId }}/hqdefault.jpg')">
+      <div class="medienkachel__inhalt">
+        <span class="medienkachel__zahl">{{ collections.videos.length }}</span>
+        <span class="medienkachel__label">Videos</span>
+      </div>
+    </a>
+  </div>
+</section>
+
+<section>
   <h2>Aktuelles aus dem Archiv</h2>
   <div class="kartenraster">
     {% for eintrag in collections.archiv %}

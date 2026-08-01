@@ -12,4 +12,4 @@ Als Sinti sind wir seit über hundert Jahren ein Teil unserer diversen Stadtgese
 
 Auf dieser Seite dokumentieren wir unsere Arbeit: Pressemitteilungen und offene Briefe, Ausstellungen wie *In den Zeiten – Lebensgeschichten Duisburger Sinti*, sowie Video- und Fotomaterial aus unserer Öffentlichkeitsarbeit.
 
-Weitere Informationen und Kontakt: [kontakt@sgdv.org](mailto:kontakt@sgdv.org)
+Weitere Informationen und Kontakt: [{{ site.kontaktEmail }}](mailto:{{ site.kontaktEmail }})

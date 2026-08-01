@@ -1,0 +1,13 @@
+{% macro anzeigen(eintrag) %}
+{% set bild = eintrag.data.titelbild or eintrag.data.fotos[0] %}
+{% if not bild and eintrag.data.youtubeId %}{% set bild = 'https://img.youtube.com/vi/' + eintrag.data.youtubeId + '/hqdefault.jpg' %}{% endif %}
+{% if not bild %}{% set bild = '/assets/img/uploads/logo/logo.jpg' %}{% endif %}
+<a class="karte" href="{{ eintrag.url }}">
+  <img src="{{ bild }}" alt="" loading="lazy">
+  <div class="karte__inhalt">
+    <span class="abzeichen">{{ eintrag.data.kategorie or "Archiv" }}</span>
+    <h3>{{ eintrag.data.title }}</h3>
+    <p class="karte__meta">{{ eintrag.data.date | datum }}</p>
+  </div>
+</a>
+{% endmacro %}

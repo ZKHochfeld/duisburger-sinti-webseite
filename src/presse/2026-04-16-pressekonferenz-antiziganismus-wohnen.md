@@ -4,7 +4,7 @@ title: "Pressekonferenz \"Antiziganismus und Wohnen\" zur Situation der Sinti-Pl
 date: 2026-04-16
 kategorie: Presse
 quelle: Duisburger Sinti Verein
-titelbild:
+titelbild: https://img.youtube.com/vi/kNt0kamwBRk/hqdefault.jpg
 link:
 ---
 

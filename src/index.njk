@@ -2,6 +2,7 @@
 layout: base.njk
 titel: Start
 ---
+{% from "karte.njk" import anzeigen %}
 <section class="hero">
   <h1>Duisburger Sinti</h1>
   <p>{{ site.beschreibung }}</p>
@@ -42,14 +43,7 @@ titel: Start
   <div class="kartenraster">
     {% for eintrag in collections.archiv %}
     {% if loop.index <= 6 %}
-    <a class="karte" href="{{ eintrag.url }}">
-      {% if eintrag.data.titelbild %}<img src="{{ eintrag.data.titelbild }}" alt="">{% endif %}
-      <div class="karte__inhalt">
-        <span class="abzeichen">{{ eintrag.data.kategorie or "Archiv" }}</span>
-        <h3>{{ eintrag.data.title }}</h3>
-        <p class="karte__meta">{{ eintrag.data.date | datum }}</p>
-      </div>
-    </a>
+    {{ anzeigen(eintrag) }}
     {% endif %}
     {% endfor %}
   </div>

@@ -27,9 +27,9 @@ collections:
       - { label: Layout, name: layout, widget: hidden, default: presse-eintrag.njk }
       - { label: Kategorie, name: kategorie, widget: hidden, default: Presse }
 
-  - name: ausstellungen
-    label: Ausstellungen
-    folder: src/ausstellungen
+  - name: veranstaltungen
+    label: Veranstaltungen
+    folder: src/veranstaltungen
     create: true
     slug: "{{slug}}"
     fields:
@@ -39,8 +39,8 @@ collections:
       - { label: Titelbild, name: titelbild, widget: image, required: false }
       - { label: Beschreibung, name: body, widget: markdown }
       - { label: Fotos, name: fotos, widget: list, field: { label: Foto, name: foto, widget: image }, required: false }
-      - { label: Layout, name: layout, widget: hidden, default: ausstellung-eintrag.njk }
-      - { label: Kategorie, name: kategorie, widget: hidden, default: Ausstellung }
+      - { label: Layout, name: layout, widget: hidden, default: veranstaltung-eintrag.njk }
+      - { label: Kategorie, name: kategorie, widget: hidden, default: Veranstaltung }
 
   - name: galerien
     label: Foto-Galerien

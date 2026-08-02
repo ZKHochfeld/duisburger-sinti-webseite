@@ -1,5 +1,5 @@
 ---
-layout: ausstellung-eintrag.njk
+layout: veranstaltung-eintrag.njk
 title: "Die Verfolgung der Duisburger Sinti in der NS-Zeit"
 date: 2024-01-28
 kategorie: Ausstellung

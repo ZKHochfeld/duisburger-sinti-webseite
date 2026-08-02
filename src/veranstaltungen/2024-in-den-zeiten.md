@@ -1,5 +1,5 @@
 ---
-layout: ausstellung-eintrag.njk
+layout: veranstaltung-eintrag.njk
 title: "In den Zeiten: Lebensgeschichten Duisburger Sinti"
 date: 2024-03-16
 kategorie: Ausstellung

@@ -1,5 +1,5 @@
 ---
-layout: ausstellung-eintrag.njk
+layout: veranstaltung-eintrag.njk
 title: "Sinti-Kulturwochenende 2024"
 date: 2024-10-06
 kategorie: Ausstellung

@@ -1,5 +1,5 @@
 ---
-layout: ausstellung-eintrag.njk
+layout: veranstaltung-eintrag.njk
 title: "Rassendiagnose: Zigeuner. Der Völkermord an den Sinti und Roma und der lange Kampf um Anerkennung"
 date: 2020-04-02
 kategorie: Ausstellung

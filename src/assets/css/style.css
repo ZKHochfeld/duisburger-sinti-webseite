@@ -160,56 +160,12 @@ main h1 { font-size: 2rem; margin-bottom: 0.5rem; }
 main h2 { font-size: 1.5rem; margin-top: 2.5rem; }
 .hero p { font-size: 1.15rem; color: var(--farbe-text-mute); max-width: 640px; margin: 0 auto; }
 
-.medienraster {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.25rem;
-  margin: 2rem 0 2.5rem;
-}
-.medienkachel {
-  position: relative;
-  display: block;
-  aspect-ratio: 5/4;
-  border-radius: var(--radius);
-  overflow: hidden;
-  background: var(--bild) center/cover no-repeat, var(--farbe-karte);
-  box-shadow: var(--schatten);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  isolation: isolate;
-}
-.medienkachel::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to top, rgba(20, 10, 6, 0.82) 0%, rgba(20, 10, 6, 0.35) 45%, rgba(20, 10, 6, 0.05) 75%);
-  z-index: 0;
-}
-.medienkachel:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--schatten-hover);
-}
-.medienkachel__inhalt {
-  position: absolute;
-  z-index: 1;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  padding: 1.1rem 1.25rem;
-  color: #fff;
-  display: flex;
-  align-items: baseline;
-  gap: 0.6rem;
-}
-.medienkachel__zahl {
-  font-family: var(--schrift-headline);
-  font-size: 1.8rem;
-  font-weight: 700;
-  line-height: 1;
-}
-.medienkachel__label {
-  font-size: 0.95rem;
-  font-weight: 500;
-  opacity: 0.95;
+.disclaimer-text {
+  max-width: 680px;
+  margin: 0 auto 2.5rem;
+  text-align: center;
+  color: var(--farbe-text-mute);
+  font-size: 1.05rem;
 }
 
 .kartenraster {

@@ -4,6 +4,7 @@ title: "Sommerfest der Duisburger Sinti 2026"
 date: 2026-07-04
 kategorie: Foto-Galerie
 fotos:
+  - /assets/img/uploads/galerien/sommerfest-2026/00-einladungsflyer.jpg
   - /assets/img/uploads/galerien/sommerfest-2026/02-icon-shirt-daumen-hoch.jpg
   - /assets/img/uploads/galerien/sommerfest-2026/03-grill-vorbereitung.jpg
   - /assets/img/uploads/galerien/sommerfest-2026/04-gespraech-technik.jpg

@@ -23,29 +23,16 @@ titel: Start
         <span class="medienkachel__label">Veranstaltungen</span>
       </div>
     </a>
-    <a class="medienkachel" href="/galerien/" style="--bild: url('{{ collections.galerien[0].data.fotos[0] or '/assets/img/uploads/logo/logo.jpg' }}')">
-      <div class="medienkachel__inhalt">
-        <span class="medienkachel__zahl">{{ collections.galerien.length }}</span>
-        <span class="medienkachel__label">Foto-Galerien</span>
-      </div>
-    </a>
-    <a class="medienkachel" href="/videos/" style="--bild: url('https://img.youtube.com/vi/{{ collections.videos[0].data.youtubeId }}/hqdefault.jpg')">
-      <div class="medienkachel__inhalt">
-        <span class="medienkachel__zahl">{{ collections.videos.length }}</span>
-        <span class="medienkachel__label">Videos</span>
-      </div>
-    </a>
   </div>
 </section>
 
 <section>
-  <h2>Aktuelles aus dem Archiv</h2>
+  <h2>Aktuelles</h2>
   <div class="kartenraster">
-    {% for eintrag in collections.archiv %}
+    {% for eintrag in collections.neueste %}
     {% if loop.index <= 6 %}
     {{ anzeigen(eintrag) }}
     {% endif %}
     {% endfor %}
   </div>
-  <p><a href="/archiv/">Gesamtes Archiv ansehen &rarr;</a></p>
 </section>

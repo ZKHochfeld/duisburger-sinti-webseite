@@ -1,16 +1,13 @@
 {
   "titel": "Duisburger Sinti",
-  "beschreibung": "Archiv der Aktivitäten, Pressemitteilungen, Veranstaltungen und Foto-/Videogalerien des Duisburger Sinti Vereins.",
+  "beschreibung": "Archiv der Pressemitteilungen und Veranstaltungen des Duisburger Sinti Vereins.",
   "url": "https://duisburgersinti.de",
   "kontaktEmail": "duisburgersinti@web.de",
   "nav": [
     { "titel": "Start", "pfad": "/" },
     { "titel": "Über uns", "pfad": "/ueber-uns/" },
-    { "titel": "Archiv", "pfad": "/archiv/" },
     { "titel": "Presse", "pfad": "/presse/" },
     { "titel": "Veranstaltungen", "pfad": "/veranstaltungen/" },
-    { "titel": "Foto-Galerien", "pfad": "/galerien/" },
-    { "titel": "Videos", "pfad": "/videos/" },
     { "titel": "Kontakt", "pfad": "/kontakt/" }
   ]
 }

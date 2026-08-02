@@ -9,18 +9,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("veranstaltungen", (api) =>
     api.getFilteredByGlob("src/veranstaltungen/*.md").sort((a, b) => b.date - a.date)
   );
-  eleventyConfig.addCollection("galerien", (api) =>
-    api.getFilteredByGlob("src/galerien/*.md").sort((a, b) => b.date - a.date)
-  );
-  eleventyConfig.addCollection("videos", (api) =>
-    api.getFilteredByGlob("src/videos/*.md").sort((a, b) => b.date - a.date)
-  );
-  eleventyConfig.addCollection("archiv", (api) => {
+  eleventyConfig.addCollection("neueste", (api) => {
     const all = [
       ...api.getFilteredByGlob("src/presse/*.md"),
       ...api.getFilteredByGlob("src/veranstaltungen/*.md"),
-      ...api.getFilteredByGlob("src/galerien/*.md"),
-      ...api.getFilteredByGlob("src/videos/*.md"),
     ];
     return all.sort((a, b) => b.date - a.date);
   });

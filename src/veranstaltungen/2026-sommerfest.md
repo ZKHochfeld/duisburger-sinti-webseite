@@ -1,8 +1,9 @@
 ---
-layout: galerie-eintrag.njk
+layout: veranstaltung-eintrag.njk
 title: "Sommerfest der Duisburger Sinti 2026"
 date: 2026-07-04
 kategorie: Foto-Galerie
+ort: "Obermeiderich, Duisburg"
 fotos:
   - /assets/img/uploads/galerien/sommerfest-2026/00-einladungsflyer.jpg
   - /assets/img/uploads/galerien/sommerfest-2026/02-icon-shirt-daumen-hoch.jpg

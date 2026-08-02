@@ -42,32 +42,6 @@ collections:
       - { label: Layout, name: layout, widget: hidden, default: veranstaltung-eintrag.njk }
       - { label: Kategorie, name: kategorie, widget: hidden, default: Veranstaltung }
 
-  - name: galerien
-    label: Foto-Galerien
-    folder: src/galerien
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: Titel, name: title, widget: string }
-      - { label: Datum, name: date, widget: datetime, format: "YYYY-MM-DD" }
-      - { label: Beschreibung, name: body, widget: markdown, required: false }
-      - { label: Fotos, name: fotos, widget: list, field: { label: Foto, name: foto, widget: image } }
-      - { label: Layout, name: layout, widget: hidden, default: galerie-eintrag.njk }
-      - { label: Kategorie, name: kategorie, widget: hidden, default: Foto-Galerie }
-
-  - name: videos
-    label: Videos
-    folder: src/videos
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: Titel, name: title, widget: string }
-      - { label: Datum, name: date, widget: datetime, format: "YYYY-MM-DD" }
-      - { label: YouTube-Video-ID, name: youtubeId, widget: string, required: false, hint: "Die ID aus der YouTube-URL, z.B. bei youtube.com/watch?v=ABC123 ist es ABC123" }
-      - { label: Vimeo-Video-ID, name: vimeoId, widget: string, required: false }
-      - { label: Kategorie, name: kategorie, widget: hidden, default: Video }
-      - { label: Permalink, name: permalink, widget: hidden, default: false }
-
   - name: seiten
     label: Seiten
     files:

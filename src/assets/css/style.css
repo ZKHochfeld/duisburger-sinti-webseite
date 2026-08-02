@@ -1,30 +1,30 @@
 :root {
-  --farbe-text: #2b1710;
-  --farbe-text-mute: #6b5c53;
-  --farbe-hintergrund: #f5f1e8;
-  --farbe-akzent: #a62b0c;
-  --farbe-akzent-dunkel: #7c2008;
-  --farbe-rand: #e2d9c8;
-  --farbe-karte: #fffdf9;
-  --schatten: 0 1px 2px rgba(43, 23, 16, 0.04), 0 8px 24px -12px rgba(43, 23, 16, 0.18);
-  --schatten-hover: 0 4px 10px rgba(43, 23, 16, 0.06), 0 16px 32px -14px rgba(43, 23, 16, 0.28);
+  --farbe-text: #201a17;
+  --farbe-text-mute: #6b6058;
+  --farbe-hintergrund: #fbf9f6;
+  --farbe-akzent: #c22d0d;
+  --farbe-akzent-dunkel: #8f2109;
+  --farbe-rand: #e7e1d8;
+  --farbe-karte: #ffffff;
+  --schatten: 0 1px 2px rgba(32, 26, 23, 0.04), 0 8px 24px -14px rgba(32, 26, 23, 0.14);
+  --schatten-hover: 0 6px 16px rgba(32, 26, 23, 0.08), 0 20px 40px -16px rgba(32, 26, 23, 0.22);
   --schrift: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-  --schrift-headline: "Cardo", Georgia, "Times New Roman", serif;
-  --radius: 14px;
+  --schrift-headline: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  --radius: 16px;
   --radius-klein: 8px;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --farbe-text: #f2e8de;
-    --farbe-text-mute: #cbb7a8;
-    --farbe-hintergrund: #1c140f;
-    --farbe-akzent: #e2794f;
-    --farbe-akzent-dunkel: #f2a884;
-    --farbe-rand: #3d2e24;
-    --farbe-karte: #271d16;
-    --schatten: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
-    --schatten-hover: 0 4px 10px rgba(0, 0, 0, 0.3), 0 20px 40px -16px rgba(0, 0, 0, 0.6);
+    --farbe-text: #f2ece5;
+    --farbe-text-mute: #b8ab9f;
+    --farbe-hintergrund: #14100e;
+    --farbe-akzent: #ef8058;
+    --farbe-akzent-dunkel: #f5a680;
+    --farbe-rand: #322922;
+    --farbe-karte: #1e1815;
+    --schatten: 0 1px 2px rgba(0, 0, 0, 0.35), 0 8px 24px -14px rgba(0, 0, 0, 0.55);
+    --schatten-hover: 0 6px 16px rgba(0, 0, 0, 0.4), 0 20px 40px -16px rgba(0, 0, 0, 0.65);
   }
 }
 
@@ -95,10 +95,10 @@ main a:not(.karte, .abzeichen, .medienkachel):hover { background-size: 0% 1px; }
   align-items: center;
   gap: 0.65rem;
   font-family: var(--schrift-headline);
-  font-size: 1.25rem;
-  font-weight: 700;
+  font-size: 1.2rem;
+  font-weight: 800;
   color: var(--farbe-text);
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
 }
 .site-header__logo img {
   border-radius: 50%;
@@ -124,14 +124,29 @@ main a:not(.karte, .abzeichen, .medienkachel):hover { background-size: 0% 1px; }
   flex-wrap: wrap;
 }
 .site-nav__list a {
+  position: relative;
   color: var(--farbe-text-mute);
-  font-weight: 500;
-  font-size: 0.95rem;
+  font-weight: 600;
+  font-size: 0.92rem;
   background-image: none;
   transition: color 0.15s ease;
+  padding-bottom: 0.2rem;
+}
+.site-nav__list a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 100%;
+  bottom: 0;
+  height: 2px;
+  background: var(--farbe-akzent);
+  border-radius: 2px;
+  transition: right 0.2s ease;
 }
 .site-nav__list a:hover { color: var(--farbe-text); }
-.site-nav__list a[aria-current="page"] { color: var(--farbe-akzent); font-weight: 600; }
+.site-nav__list a:hover::after { right: 0; }
+.site-nav__list a[aria-current="page"] { color: var(--farbe-text); }
+.site-nav__list a[aria-current="page"]::after { right: 0; }
 
 main { padding: 3rem 1.5rem 5rem; }
 
@@ -146,26 +161,47 @@ main { padding: 3rem 1.5rem 5rem; }
 
 .hero {
   text-align: center;
-  padding: 3.5rem 0 2.5rem;
+  padding: 4rem 0 2rem;
   position: relative;
 }
 .hero h1 {
   font-family: var(--schrift-headline);
-  font-size: clamp(2.2rem, 5vw, 3rem);
-  margin-bottom: 0.6rem;
-  letter-spacing: -0.01em;
+  font-weight: 800;
+  font-size: clamp(2.4rem, 5.5vw, 3.4rem);
+  margin-bottom: 0.7rem;
+  letter-spacing: -0.03em;
 }
-h1, h2, h3 { font-family: var(--schrift-headline); letter-spacing: -0.01em; }
+h1, h2, h3 { font-family: var(--schrift-headline); font-weight: 700; letter-spacing: -0.02em; }
 main h1 { font-size: 2rem; margin-bottom: 0.5rem; }
-main h2 { font-size: 1.5rem; margin-top: 2.5rem; }
-.hero p { font-size: 1.15rem; color: var(--farbe-text-mute); max-width: 640px; margin: 0 auto; }
+main h2 {
+  font-size: 1.4rem;
+  margin-top: 2.5rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+main h2::before {
+  content: "";
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--farbe-akzent);
+  flex-shrink: 0;
+}
+.hero p { font-size: 1.2rem; color: var(--farbe-text-mute); max-width: 640px; margin: 0 auto; }
 
 .disclaimer-text {
-  max-width: 680px;
-  margin: 0 auto 2.5rem;
-  text-align: center;
-  color: var(--farbe-text-mute);
-  font-size: 1.05rem;
+  margin: 2rem 0 0;
+  text-align: left;
+  color: var(--farbe-text);
+  font-size: 1.1rem;
+  line-height: 1.7;
+  padding: 1.75rem 2rem;
+  background: var(--farbe-karte);
+  border: 1px solid var(--farbe-rand);
+  border-left: 4px solid var(--farbe-akzent);
+  border-radius: var(--radius-klein);
+  box-shadow: var(--schatten);
 }
 
 .kartenraster {
@@ -203,13 +239,13 @@ main h2 { font-size: 1.5rem; margin-top: 2.5rem; }
 .karte__meta { font-size: 0.85rem; color: var(--farbe-text-mute); margin-bottom: 0.6rem; }
 .abzeichen {
   display: inline-block;
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-size: 0.68rem;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-  background: color-mix(in srgb, var(--farbe-akzent) 12%, transparent);
-  color: var(--farbe-akzent-dunkel);
-  padding: 0.25rem 0.7rem;
+  letter-spacing: 0.06em;
+  background: var(--farbe-akzent);
+  color: #fff;
+  padding: 0.3rem 0.75rem;
   border-radius: 999px;
   margin-bottom: 0.6rem;
 }

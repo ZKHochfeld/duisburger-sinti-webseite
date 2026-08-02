@@ -8,4 +8,4 @@ titelbild: /assets/img/uploads/presse/vorschau/rosenbergs.jpg
 link: https://www.waz.de/staedte/duisburg/article237360591/Das-Leid-der-Sinti-in-Duisburg-am-Beispiel-der-Rosenbergs.html
 ---
 
-Die WAZ schildert am Beispiel der Duisburger Sinti-Musikerfamilie Rosenberg die Verfolgungsgeschichte während des Nationalsozialismus. Über 25.000 Sinti wurden ins KZ Auschwitz verschleppt; Mitglieder der Band "Schafu" der Familie Rosenberg wurden ermordet.
+Die WAZ berichtet über einen Vortrag der Historikerin Ricarda Reischl im NRW-Landesarchiv Duisburg, die dort ihre Bachelorarbeit über die Verfolgungsgeschichte ihrer eigenen Familie vorstellte – der Duisburger Sinti-Musikerfamilie Rosenberg. Mitglieder der Familienband wurden nach Auschwitz deportiert und ermordet.

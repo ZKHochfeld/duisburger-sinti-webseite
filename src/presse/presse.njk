@@ -1,10 +1,10 @@
 ---
 layout: base.njk
-titel: Presse
+titel: Presse & Dokumente
 permalink: /presse/
 eleventyExcludeFromCollections: true
 ---
-<h1>Pressemitteilungen</h1>
+<h1>Presse & Dokumente</h1>
 
 <div class="kartenraster">
   {% for eintrag in collections.presse %}
@@ -12,7 +12,7 @@ eleventyExcludeFromCollections: true
   <a class="karte" href="{{ eintrag.url }}">
     <img src="{{ bild }}" alt="" loading="lazy">
     <div class="karte__inhalt">
-      <span class="abzeichen">Presse</span>
+      <span class="abzeichen">{{ eintrag.data.kategorie or "Presse" }}</span>
       <h3>{{ eintrag.data.title }}</h3>
       <p class="karte__meta">{{ eintrag.data.date | datum }} {% if eintrag.data.quelle %}· {{ eintrag.data.quelle }}{% endif %}</p>
     </div>

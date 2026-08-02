@@ -6,7 +6,7 @@
   "nav": [
     { "titel": "Start", "pfad": "/" },
     { "titel": "Über uns", "pfad": "/ueber-uns/" },
-    { "titel": "Presse", "pfad": "/presse/" },
+    { "titel": "Presse & Dokumente", "pfad": "/presse/" },
     { "titel": "Veranstaltungen", "pfad": "/veranstaltungen/" },
     { "titel": "Kontakt", "pfad": "/kontakt/" }
   ]

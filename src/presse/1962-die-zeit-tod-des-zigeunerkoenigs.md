@@ -4,7 +4,7 @@ title: "Zwischen Kohlenhalde und Bahngleis"
 date: 1962-11-02
 kategorie: Presse
 quelle: "Die Zeit, Nr. 44/1962, N.G."
-titelbild:
+titelbild: /assets/img/uploads/presse/vorschau/zeit-1962.jpg
 link: https://www.zeit.de/1962/44/zwischen-kohlenhalde-und-bahngleis/komplettansicht
 ---
 

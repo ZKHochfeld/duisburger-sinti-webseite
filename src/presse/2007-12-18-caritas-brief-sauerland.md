@@ -4,8 +4,8 @@ title: "Caritas Duisburg: Brief an Oberbürgermeister Sauerland"
 date: 2007-12-18
 kategorie: Dokument
 quelle: Caritasverband Duisburg
-titelbild:
-link:
+titelbild: /assets/img/uploads/presse/vorschau/caritas-brief-sauerland.jpg
+link: /assets/img/uploads/presse/2007-caritas-brief-sauerland.pdf
 ---
 
 Der Caritas-Direktor Hans-Jürgen Kocar wendet sich am 18.12.2007 in einem Begleitschreiben an Oberbürgermeister Sauerland und unterstützt darin die Bitte von Siegfried Mettbach um ein dauerhaftes Wohnrecht für die Sinti-Familien an der Obermeidericher Straße 200, etwa durch einen Miet- oder Pachtvertrag.

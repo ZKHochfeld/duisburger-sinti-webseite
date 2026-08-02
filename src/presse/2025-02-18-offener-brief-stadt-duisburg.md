@@ -5,7 +5,7 @@ date: 2025-02-18
 kategorie: Presse
 quelle: Duisburger Sinti Verein e.V.
 titelbild:
-link:
+link: /assets/img/uploads/presse/2025-offener-brief-duisburger-sinti-verein.docx
 ---
 
 Offener Brief des Duisburger Sinti Vereins an Oberbürgermeister Sören Link und die zuständigen Dezernate. Der Brief zeichnet die Chronologie der Wohnsituation der Duisburger Sinti seit den 1970er-Jahren nach – von der Ansiedlung an der Essenberger Straße und der Obermeidericher Straße über die Ereignisse von 1980, 1993, 2002 und 2007 bis zur aktuellen Lage.

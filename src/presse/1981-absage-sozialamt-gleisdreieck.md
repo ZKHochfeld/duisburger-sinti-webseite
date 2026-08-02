@@ -2,8 +2,9 @@
 layout: presse-eintrag.njk
 title: "Zigeuner wollen nicht in das Gleisdreieck"
 date: 1981-01-01
+datumCa: true
 kategorie: Presse
-quelle: "WAZ, Datum unklar (vermutlich Anfang der 1980er-Jahre)"
+quelle: WAZ
 titelbild: /assets/img/uploads/galerien/pressearchiv-social/02-gleisdreieck-1980er.png
 link: /assets/img/uploads/presse/1981-gleisdreieck-absage.pdf
 ---

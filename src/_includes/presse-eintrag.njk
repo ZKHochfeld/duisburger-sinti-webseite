@@ -4,7 +4,7 @@ layout: base.njk
 <article>
   <span class="abzeichen">{{ kategorie or "Presse" }}</span>
   <h1>{{ title }}</h1>
-  <p class="karte__meta">{{ date | datum }}{% if quelle %} · {{ quelle }}{% endif %}</p>
+  <p class="karte__meta">{% if datumUngenau %}{{ date | jahr }}{% else %}{{ date | datum }}{% endif %}{% if quelle %} · {{ quelle }}{% endif %}</p>
   {% if titelbild %}<img src="{{ titelbild }}" alt="" style="width:100%;border-radius:10px;margin:1rem 0;">{% endif %}
   {{ content | safe }}
   {% if link %}<p><a href="{{ link }}" target="_blank" rel="noopener">{% if link.startsWith('/assets/') %}Dokument herunterladen{% else %}Originalartikel{% endif %} &rarr;</a></p>{% endif %}

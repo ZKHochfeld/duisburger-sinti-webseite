@@ -23,6 +23,11 @@ module.exports = function (eleventyConfig) {
     return d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
   });
 
+  eleventyConfig.addFilter("jahr", (dateObj) => {
+    if (!dateObj) return "";
+    return new Date(dateObj).getFullYear().toString();
+  });
+
   return {
     dir: {
       input: "src",

@@ -2,8 +2,9 @@
 layout: presse-eintrag.njk
 title: "Die Position der Stadtverwaltung zur Essenberger Straße"
 date: 2024-01-01
+datumUngenau: true
 kategorie: Dokument
-quelle: "Sozialdezernat der Stadt Duisburg, Datum unklar (2024)"
+quelle: "Sozialdezernat der Stadt Duisburg"
 titelbild:
 link:
 ---
@@ -16,4 +17,4 @@ Zur rechtlichen Einschätzung einer möglichen Rückkehr weiterer Familienangeh�
 
 > "Für eine Rückkehr [...] fehlt jede rechtliche Grundlage, weil es einerseits keinen Unterbringungsgrund gibt und außerdem weil [...] die dortige Unterkunft nicht weiter belegt werden kann, da sie nicht den Ansprüchen von regulärem Wohnraum entspricht. Bei einer erneuten Wohnungslosigkeit würde es deshalb nicht mehr zu einer dortigen Unterbringung kommen."
 
-Die Position der Stadtverwaltung steht damit im direkten Widerspruch zu den Forderungen des Vereins nach Aufhebung der Wohnbeschränkungen für Familienangehörige (siehe die offenen Briefe von 2022 und 2025).
+Die Position der Stadtverwaltung steht damit im direkten Widerspruch zu den Forderungen des Vereins nach Aufhebung der Wohnbeschränkungen für Familienangehörige (siehe [Über uns](/ueber-uns/)).

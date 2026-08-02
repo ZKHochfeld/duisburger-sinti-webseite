@@ -28,9 +28,10 @@ titel: Start
 
 <section>
   <h2>Aktuelles</h2>
+  <p class="hinweis-text">Ein kleiner Einblick – das vollständige Archiv findest du unter <a href="/presse/">Presse &amp; Dokumente</a> und <a href="/veranstaltungen/">Veranstaltungen</a>.</p>
   <div class="kartenraster">
     {% for eintrag in collections.neueste %}
-    {% if loop.index <= 6 %}
+    {% if loop.index <= 12 %}
     {{ anzeigen(eintrag) }}
     {% endif %}
     {% endfor %}

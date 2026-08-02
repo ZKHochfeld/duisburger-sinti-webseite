@@ -25,3 +25,5 @@ Im Juli 1943 organisierte die Duisburger Kriminalpolizei Christines Deportation 
 Christines Bruder Franz Lehmann war zur selben Zeit in einem Außenlager von Auschwitz gefangen. Er überlebte und kehrte nach Duisburg zurück. 2019 besuchte sein Enkel, Mario Reinhardt – heute 1. Vorsitzender des Duisburger Sinti Vereins –, eine Veranstaltung des ZfE zum Welt-Roma-Tag und übergab dem Zentrum dieses und zahlreiche weitere private Familienfotos für die Ausstellung.
 
 Quelle der Fotos: Mario Reinhardt / Zentrum für Erinnerungskultur Duisburg
+
+Die begleitende [Broschüre "Die Verfolgung der Duisburger Sinti in der NS-Zeit"](/presse/2020-04-01-verfolgung-ns-zeit-broschuere/) mit weiteren Kurzbiografien steht zum Download bereit.

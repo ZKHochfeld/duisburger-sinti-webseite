@@ -24,7 +24,7 @@ fotos:
   - /assets/img/uploads/ausstellungen/in-den-zeiten-2024/abschluss-raum.jpg
 ---
 
-Die Ausstellung "In den Zeiten: Lebensgeschichten Duisburger Sinti" wurde im Rahmen der 45. Duisburger Akzente ("Familienbande") eröffnet – eine Zusammenarbeit des Duisburger Sinti Vereins mit der Medienkünstlerin Anna Irma Hilfrich, in Kooperation mit SGDV e.V. und dem Zentrum für Erinnerungskultur der Stadt Duisburg.
+Die Ausstellung "In den Zeiten: Lebensgeschichten Duisburger Sinti" wurde im Rahmen der 45. Duisburger Akzente ("Familienbande") eröffnet – eine Zusammenarbeit des Duisburger Sinti Verein e.V. mit der Medienkünstlerin Anna Irma Hilfrich, in Kooperation mit SGDV e.V. und dem Zentrum für Erinnerungskultur der Stadt Duisburg.
 
 Durch multimediale Rauminstallationen führt die Ausstellung Erinnerungen von vier Generationen zusammen: historische Familienfotos wurden großflächig in die rohen Räume des ZK Hochfeld projiziert, an Hörstationen konnten Besucher:innen Gesprächen mit Elli Mettbach, Anna Wagner, Jasmin und Janett Mettbach lauschen. Einer der Ausstellungsräume war dem Gedenken gewidmet: dem Film "In Gedenken" (3:24 Min., Duisburger Sinti Verein e.V., 2024), der zum Gedenkgottesdienst am 28. Januar 2024 in der Salvatorkirche entstand und der Duisburger Sinti-Familien gedenkt, die Opfer des Nationalsozialismus wurden.
 

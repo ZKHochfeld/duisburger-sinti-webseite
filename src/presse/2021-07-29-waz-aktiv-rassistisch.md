@@ -8,4 +8,4 @@ titelbild:
 link: https://www.waz.de/staedte/duisburg/sinti-und-roma-sagen-stadt-duisburg-ist-aktiv-rassistisch-id232907877.html
 ---
 
-Sinti und Roma aus Duisburg erheben in der WAZ schwere Vorwürfe gegen die Stadtverwaltung und werfen ihr aktives rassistisches Handeln vor – ein Jahr vor der Gründung des Duisburger Sinti Vereins.
+Sinti und Roma aus Duisburg erheben in der WAZ schwere Vorwürfe gegen die Stadtverwaltung und werfen ihr aktives rassistisches Handeln vor – ein Jahr vor der Gründung des Duisburger Sinti Verein e.V.

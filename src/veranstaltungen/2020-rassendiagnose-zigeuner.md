@@ -22,7 +22,7 @@ Das Titelmotiv der lokalgeschichtlichen Ergänzung zeigt die Duisburger Sintiza 
 
 Im Juli 1943 organisierte die Duisburger Kriminalpolizei Christines Deportation nach Auschwitz. Ihre Söhne blieben zunächst bei der Familie ihres Ehemanns – bis der Duisburger Kriminalbeamte Wilhelm Helten, der besonders aktiv an der Verfolgung der Duisburger Sinti beteiligt war, sie am 7. März 1944 persönlich nach Auschwitz begleitete. Robert wurde im Juni 1944 ermordet, Egons Schicksal ist ungeklärt; Christines Tod ist für den 28. März 1944 vermerkt.
 
-Christines Bruder Franz Lehmann war zur selben Zeit in einem Außenlager von Auschwitz gefangen. Er überlebte und kehrte nach Duisburg zurück. 2019 besuchte sein Enkel, Mario Reinhardt – heute 1. Vorsitzender des Duisburger Sinti Vereins –, eine Veranstaltung des ZfE zum Welt-Roma-Tag und übergab dem Zentrum dieses und zahlreiche weitere private Familienfotos für die Ausstellung.
+Christines Bruder Franz Lehmann war zur selben Zeit in einem Außenlager von Auschwitz gefangen. Er überlebte und kehrte nach Duisburg zurück. 2019 besuchte sein Enkel, Mario Reinhardt – heute 1. Vorsitzender des Duisburger Sinti Verein e.V. –, eine Veranstaltung des ZfE zum Welt-Roma-Tag und übergab dem Zentrum dieses und zahlreiche weitere private Familienfotos für die Ausstellung.
 
 Quelle der Fotos: Mario Reinhardt / Zentrum für Erinnerungskultur Duisburg
 

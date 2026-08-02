@@ -4,7 +4,7 @@ title: Über uns
 titel: Über uns
 ---
 
-# Über den Duisburger Sinti Verein
+# Über den Duisburger Sinti Verein e.V.
 
 Der Duisburger Sinti Verein e.V. ist die organisierte Interessenvertretung der deutschen Sinti in Duisburg. Rund 120 bis 150 Sinti-Familien leben in der Stadt – die meisten von ihnen ganz regulär in eigenen Wohnungen und Häusern, verteilt über das gesamte Stadtgebiet. Sinti sind seit Jahrhunderten Teil der Duisburger Stadtgesellschaft: Erste Erwähnungen reichen bis ins Jahr 1407 zurück.
 

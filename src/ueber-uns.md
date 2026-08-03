@@ -33,6 +33,10 @@ Ein zentrales Anliegen des Vereins ist der dauerhafte Erhalt und die rechtliche 
 
 Die Angst vor Vertreibung von den angestammten Wohnplätzen bleibt bis heute allgegenwärtig – die fehlende rechtliche Absicherung sorgt für anhaltende Unsicherheit, gerade für Familien mit Angehörigen, die den Holocaust überlebt haben.
 
+<div class="foto-galerie">
+  <img src="/assets/img/uploads/presse/umsiedlung-karte-duisburg.jpg" alt="Skizzenhafte Karte der Umsiedlungsstationen der Duisburger Sinti-Familien 1970 bis 2022" loading="lazy">
+</div>
+
 ### Filme über die Familie Mettbach
 
 Der Filmemacher Rainer Komers hat die Wohnsituation der Duisburger Sinti-Plätze und die Familie Mettbach über 45 Jahre hinweg in drei Dokumentarfilmen begleitet:

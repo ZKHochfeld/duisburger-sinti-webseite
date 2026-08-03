@@ -1,6 +1,5 @@
 {% macro anzeigen(eintrag) %}
 {% set bild = eintrag.data.titelbild or eintrag.data.fotos[0] %}
-{% if not bild and eintrag.data.youtubeId %}{% set bild = 'https://img.youtube.com/vi/' + eintrag.data.youtubeId + '/hqdefault.jpg' %}{% endif %}
 {% if not bild %}{% set bild = '/assets/img/uploads/logo/logo.jpg' %}{% endif %}
 <a class="karte" href="{{ eintrag.url }}">
   <img src="{{ bild }}" alt="" loading="lazy">

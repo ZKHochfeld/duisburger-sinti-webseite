@@ -3,6 +3,7 @@ layout: base.njk
 titel: Start
 ---
 {% from "karte.njk" import anzeigen %}
+{% from "video-facade.njk" import einbetten %}
 <section class="hero">
   <h1>Duisburger Sinti Verein e.V.</h1>
   <p>{{ site.beschreibung }}</p>
@@ -11,9 +12,7 @@ titel: Start
 <section>
   <p class="disclaimer-text">Der Duisburger Sinti Verein e.V. setzt sich für die Rechte und Anerkennung der seit Generationen in Duisburg verwurzelten Sinti-Familien ein, insbesondere für den dauerhaften Erhalt ihrer angestammten Wohnplätze. Er leistet Erinnerungs- und Gedenkarbeit zur NS-Verfolgungsgeschichte, fördert Sprache und Kultur der Community und tritt öffentlich gegen anhaltende Diskriminierung ein. Diese Website dokumentiert diese Arbeit anhand von Presseberichten, offiziellen Dokumenten und eigenen Veranstaltungen.</p>
 
-  <div class="video-einbettung">
-    <iframe src="https://www.youtube-nocookie.com/embed/8zZfAnjpctY" title="In den Zeiten – Familiengeschichten Duisburger Sinti" allowfullscreen loading="lazy"></iframe>
-  </div>
+  {{ einbetten("8zZfAnjpctY", "In den Zeiten – Familiengeschichten Duisburger Sinti") }}
 </section>
 
 <section>

@@ -1,0 +1,8 @@
+{% macro einbetten(id, titel) %}
+<div class="video-einbettung video-einbettung--platzhalter" data-youtube-id="{{ id }}" data-titel="{{ titel }}">
+  <img src="/assets/img/uploads/videos/{{ id }}.jpg" alt="" loading="lazy">
+  <button type="button" class="video-einbettung__play" aria-label="Video laden und abspielen: {{ titel }}">
+    <span aria-hidden="true">▶</span>
+  </button>
+</div>
+{% endmacro %}

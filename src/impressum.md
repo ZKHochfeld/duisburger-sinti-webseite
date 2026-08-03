@@ -6,11 +6,14 @@ titel: Impressum
 
 # Impressum
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
 Duisburger Sinti Verein e.V.
 Musfeldstraße 110
 47053 Duisburg
+
+Registergericht: Amtsgericht Duisburg
+Vereinsregisternummer: VR 6334
 
 ## Vertreten durch
 

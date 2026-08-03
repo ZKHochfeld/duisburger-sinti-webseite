@@ -8,8 +8,8 @@ titelbild: /assets/img/uploads/presse/2026-siegfried-mettbach-podium.jpg
 link:
 ---
 
+{% from "video-facade.njk" import einbetten %}
+
 Teilnahme an der Pressekonferenz "Antiziganismus und Wohnen" zur Situation der Sinti-Plätze in Duisburg, mit Vorstellung der MIA-Publikation "Antiziganismus und Wohnen".
 
-<div class="video-einbettung">
-  <iframe src="https://www.youtube-nocookie.com/embed/kNt0kamwBRk" title="Vorstellung der MIA-Publikation Antiziganismus und Wohnen" allowfullscreen loading="lazy"></iframe>
-</div>
+{{ einbetten("kNt0kamwBRk", "Vorstellung der MIA-Publikation Antiziganismus und Wohnen") }}

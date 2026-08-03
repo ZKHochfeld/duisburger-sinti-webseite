@@ -1,11 +1,11 @@
 ---
 layout: presse-eintrag.njk
-title: "Lokalzeit aus Duisburg: Studiogespräch mit Siegfried Mettbach"
+title: "Familie Mettbach: Auf Spurensuche der Sintis in Duisburg"
 date: 2024-12-19
-kategorie: Presse
-quelle: WDR Lokalzeit aus Duisburg
+kategorie: Video
+quelle: "WDR Lokalzeit aus Duisburg, Stephanie Hajdamowicz"
 titelbild:
-link: https://www.ardmediathek.de/video/lokalzeit-aus-duisburg/lokalzeit-aus-duisburg-oder-19-12-2024/wdr-duisburg/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtN
+link: https://www1.wdr.de/mediathek/auf-spurensuche-sintis-in-duisburg-100.html
 ---
 
-Die WDR Lokalzeit aus Duisburg strahlt am 19. Dezember 2024 einen Beitrag zur Geschichte der Sinti-Familie Mettbach in Duisburg aus, ergänzt durch ein Studiogespräch mit Siegfried Mettbach, stellvertretender Vorsitzender des Duisburger Sinti Verein e.V.
+Reportage der WDR Lokalzeit aus Duisburg über die Geschichte der Sinti-Familie Mettbach in Duisburg, ergänzt durch ein Studiogespräch mit Siegfried Mettbach, stellvertretender Vorsitzender des Duisburger Sinti Verein e.V.

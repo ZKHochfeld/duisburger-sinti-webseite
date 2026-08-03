@@ -4,9 +4,13 @@ title: "Kohlhayer will wieder für die Sintis arbeiten"
 date: 1982-01-15
 kategorie: Presse
 quelle: WAZ
-titelbild:
+titelbild: /assets/img/uploads/presse/1982-waz-kohlhayer-artikel.jpg
 link:
 ---
+
+<div class="foto-galerie">
+  <img src="/assets/img/uploads/presse/1982-waz-kohlhayer-artikel.jpg" alt="Zeitungsartikel, WAZ, 15.1.1982" loading="lazy">
+</div>
 
 Der SPD-Ratsherr und Meidericher Bezirksvorsteher Hans Kohlhayer hatte sein "Sinti-Mandat" als Ratsbeauftragter und Vermittler am 4. Dezember 1981 spontan niedergelegt, nach einer enttäuschenden Unterredung zwischen Sinti-Familien und Vertretern der Hamborner Siedler zur geplanten Errichtung eines Sinti-Dorfes "Am Sandberg". Sowohl seine eigene Fraktion als auch der mit der Sinti-Betreuung befasste Duisburger Caritasverband und Ranco Brantner, Sprecher des Bundesverbands Deutscher Sinti, drängten ihn in Briefen und Gesprächen, nicht zu resignieren.
 

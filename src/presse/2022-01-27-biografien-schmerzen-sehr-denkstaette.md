@@ -5,7 +5,7 @@ date: 2022-01-27
 datumUngenau: true
 kategorie: Video
 quelle: "Zentrum für Erinnerungskultur Duisburg"
-titelbild:
+titelbild: /assets/img/uploads/presse/2022-biografien-schmerzen-sehr-standbild.jpg
 link: https://www.facebook.com/historischeszentrumduisburg/videos/die-biografien-an-die-wir-heute-erinnern-schmerzen-sehr-ak-chahinanl%C3%A4sslich-des-/456962889409908/
 ---
 

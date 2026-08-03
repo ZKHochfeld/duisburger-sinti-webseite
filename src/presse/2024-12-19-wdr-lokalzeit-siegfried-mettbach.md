@@ -4,7 +4,7 @@ title: "Familie Mettbach: Auf Spurensuche der Sintis in Duisburg"
 date: 2024-12-19
 kategorie: Video
 quelle: "WDR Lokalzeit aus Duisburg, Stephanie Hajdamowicz"
-titelbild:
+titelbild: /assets/img/uploads/presse/2024-mettbach-wdr-lokalzeit.jpg
 link: https://www1.wdr.de/mediathek/auf-spurensuche-sintis-in-duisburg-100.html
 ---
 

@@ -4,7 +4,7 @@ title: "Mario Reinhardt spricht über die NS-Verfolgung seiner Duisburger Sinti-
 date: 2021-02-10
 kategorie: Presse
 quelle: "Kultur- und Stadthistorisches Museum Duisburg"
-titelbild:
+titelbild: /assets/img/uploads/presse/2021-mario-reinhardt-standbild.jpg
 link: https://www.stadtmuseum-duisburg.de/mario-reinhardt-spricht-ueber-die-ns-verfolgung-seiner-duisburger-sinti-familie/
 ---
 

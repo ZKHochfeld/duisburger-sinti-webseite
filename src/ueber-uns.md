@@ -25,7 +25,6 @@ Gegründet wurde der Verein am 25. Juli 2022 im Zentrum für Kultur Hochfeld, na
 Ein zentrales Anliegen des Vereins ist der dauerhafte Erhalt und die rechtliche Absicherung der angestammten Sinti-Plätze an der Essenberger Straße (Neuenkamp) und der Obermeidericher Straße (Meiderich). Die Geschichte dieser Plätze reicht über 50 Jahre zurück:
 
 - **1970er-Jahre**: Die Stadt Duisburg siedelt Sinti-Familien in barackenähnlichen Wohnbereichen an, insbesondere ab 1970 an der Essenberger Straße 154a in Neuenkamp und 1973 in Containern an der Obermeidericher Straße 200 in Meiderich – ohne langfristige Perspektive oder rechtliche Sicherung. Die zuvor an der Lehmstraße untergebrachten Familien, allesamt Holocaust-Überlebende, hatten sich die Plätze selbst aufgebaut und befürchteten schon damals, dass diese zu klein bemessen seien.
-- **1979**: Der Filmemacher Rainer Komers dreht die Dokumentation *„Zigeuner in Duisburg"* über die Sinti-Familie Mettbach in Obermeiderich – eine der frühesten filmischen Dokumentationen der Wohnsituation der Duisburger Sinti-Plätze.
 - **1980**: Nachdem Familien gegen ihren Willen von der Obermeidericher Straße in ein Haus an der Essenberger Straße umgesiedelt worden waren, eskaliert die Lage mit einer Schießerei auf ein Familienmitglied. Sozialamtsleiter Klaus Quirmbach sagt die Suche nach einem geeigneteren Grundstück zu; ein geplanter Platz "Am Sandberg" scheitert am Widerstand des Hamborner Siedler-Vereins. Seit 1988 liegt die Betreuungsverantwortung offiziell bei der Stadt Duisburg.
 - **1993**: Die Stadt kündigt trotz angespannter Haushaltslage neue Unterkünfte bis Ende des Jahres an – ohne dass es zu verbindlichen Maßnahmen kommt. Zu dieser Zeit lebt die schwerkranke Antonia Mettbach, KZ-Ravensbrück-Überlebende, noch in den Baracken.
 - **2002**: Eine Mitteilungsvorlage der Stadt befasst sich mit der dringenden Notwendigkeit einer dauerhaften Wohnversorgung für 12 Sinti-Familien (35 Personen) in den desolaten Wohncontainern an Sandbergstraße, Essenberger Straße und Obermeidericher Straße. Die Bezirksregierung signalisiert Unterstützung für den Bau von vier Steinhäusern, die Stadt setzt das Vorhaben jedoch letztlich nicht um.
@@ -33,6 +32,16 @@ Ein zentrales Anliegen des Vereins ist der dauerhafte Erhalt und die rechtliche 
 - **2022**: Der Duisburger Sinti Verein e.V. wird gegründet und fordert in einem offenen Brief verbindliche Maßnahmen von der Stadtverwaltung.
 
 Die Angst vor Vertreibung von den angestammten Wohnplätzen bleibt bis heute allgegenwärtig – die fehlende rechtliche Absicherung sorgt für anhaltende Unsicherheit, gerade für Familien mit Angehörigen, die den Holocaust überlebt haben.
+
+### Filme über die Familie Mettbach
+
+Der Filmemacher Rainer Komers hat die Wohnsituation der Duisburger Sinti-Plätze und die Familie Mettbach über 45 Jahre hinweg in drei Dokumentarfilmen begleitet:
+
+- **1980 – *Zigeuner in Duisburg*** (38 Min., 16mm, s/w): Drei Generationen der Familie Mettbach in Duisburg-Meiderich, ihre Zwangsumsiedlung und der diskriminierende Alltag. Premiere am 23.4.1980 bei den Kurzfilmtagen Oberhausen, ausgezeichnet mit dem Preis der deutschen Filmkritik.
+- **1981 – *„Zigeunerdorf" im Gleisdreieck*** (6 Min., stumm): Dokumentiert das Gelände zwischen Autobahn und Bahndamm in Duisburg, das die Stadt damals als Sinti/Roma-Siedlung vorsah.
+- **2025 – *Zwei Schwestern*** (auch als *Ja, wir sind Sinti* gelistet): 45 Jahre später sprechen Jasmin und Janett Mettbach, Enkelinnen der Holocaust-Überlebenden Elli Mettbach, über anhaltende Diskriminierung und ihren Wunsch, zurück nach Neuenkamp zu ziehen, um ihre pflegebedürftige Großmutter zu versorgen. Weltpremiere bei den „Sinti und Roma Tagen" Bremen 2025.
+
+Alle drei Filme wurden bislang ausschließlich im Kino bzw. auf Archivveranstaltungen gezeigt (u. a. Zeughauskino Berlin, filmforum Duisburg, City46 Bremen); ein öffentlicher Online-Zugang besteht derzeit nicht.
 
 ### Bundesweiter Kontext: keine Duisburger Ausnahme
 

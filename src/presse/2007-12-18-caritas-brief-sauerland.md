@@ -8,7 +8,7 @@ titelbild: /assets/img/uploads/presse/vorschau/caritas-brief-sauerland.jpg
 link: /assets/img/uploads/presse/2007-caritas-brief-sauerland.pdf
 ---
 
-Der Caritas-Direktor Hans-Jürgen Kocar wendet sich am 18.12.2007 in einem Begleitschreiben an Oberbürgermeister Sauerland und unterstützt darin die Bitte von Siegfried Mettbach um ein dauerhaftes Wohnrecht für die Sinti-Familien an der Obermeidericher Straße 200, etwa durch einen Miet- oder Pachtvertrag.
+Der Caritas-Direktor Hans-Jürgen Kocar wendet sich am 18.12.2007 in einem Begleitschreiben an Oberbürgermeister Sauerland und unterstützt darin die Bitte von Siegfried Mettbach um ein dauerhaftes Wohnrecht für die Sinti-Familien an der Obermeidericher Straße, etwa durch einen Miet- oder Pachtvertrag.
 
 Beigefügt ist Mettbachs eigener Brief vom 14.12.2007, in dem er von einem Gespräch mit dem städtischen Vertreter Herrn Reiss am 30.10.2007 berichtet. Mettbach, der seit 1973 an diesem Standort lebt, schildert darin auch, dass sein Begleiter Ralf Pietras (PDS) von Reiss unter Verweis auf dessen Parteizugehörigkeit gebeten wurde, das Gespräch zu verlassen:
 

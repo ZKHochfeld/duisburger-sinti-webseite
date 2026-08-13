@@ -30,6 +30,7 @@ Ein zentrales Anliegen des Vereins ist der dauerhafte Erhalt und die rechtliche 
 - **2002**: Eine Mitteilungsvorlage der Stadt befasst sich mit der dringenden Notwendigkeit einer dauerhaften Wohnversorgung für 12 Sinti-Familien (35 Personen) in den desolaten Wohncontainern an Sandbergstraße, Essenberger Straße und Obermeidericher Straße. Die Bezirksregierung signalisiert Unterstützung für den Bau von vier Steinhäusern, die Stadt setzt das Vorhaben jedoch letztlich nicht um.
 - **2007**: Die Caritas Duisburg unterstützt in einem Brief an Oberbürgermeister Sauerland die Bitte von Siegfried Mettbach um ein dauerhaftes Wohnrecht durch einen Miet- oder Pachtvertrag an der Obermeidericher Straße.
 - **2022**: Der Duisburger Sinti Verein e.V. wird gegründet und fordert in einem offenen Brief verbindliche Maßnahmen von der Stadtverwaltung.
+- **Seit 2025**: Der Verein führt Gespräche mit dem Amt für Soziales und Wohnen der Stadt Duisburg und der städtischen Wohnungsgesellschaft Gebag. Verhandelt wird eine Beschlussvorlage für den Rat, die die offizielle Anerkennung der Plätze als Sinti-Plätze sowie die Renovierung der defekten Wohncontainer vorsieht. Eine Entscheidung des Rates steht noch aus.
 
 Die Angst vor Vertreibung von den angestammten Wohnplätzen bleibt bis heute allgegenwärtig – die fehlende rechtliche Absicherung sorgt für anhaltende Unsicherheit, gerade für Familien mit Angehörigen, die den Holocaust überlebt haben.
 

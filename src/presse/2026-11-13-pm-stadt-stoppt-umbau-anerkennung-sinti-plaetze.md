@@ -1,14 +1,14 @@
 ---
 layout: presse-eintrag.njk
 title: "Pressemitteilung: Politische Anerkennung kostet nichts. Die Stadt Duisburg verweigert sie den Sinti-Familien trotzdem"
-date: 2026-11-13
+date: 2026-11-17
 kategorie: Pressemitteilung
 quelle: Duisburger Sinti Verein e.V.
 titelbild: /assets/img/uploads/presse/2026-11-13-pm-absage-kachel.jpg
 link:
 ---
 
-*Duisburg, 13. November 2026*
+*Duisburg, 17. November 2026*
 
 **Nach monatelangem Hinhalten und mehrfachem Nachfragen teilte die Verwaltung dem Duisburger Sinti Verein am 2. November erstmals ein Ergebnis mit. Der Umbau wird nicht finanziert, die Anerkennung der Plätze zurückgestellt. Der Verein hält die Begründungen für vorgeschoben und verweist auf Dokumente der Stadt selbst.**
 

@@ -31,6 +31,7 @@ Ein zentrales Anliegen des Vereins ist der dauerhafte Erhalt und die rechtliche 
 - **2007**: Die Caritas Duisburg unterstützt in einem Brief an Oberbürgermeister Sauerland die Bitte von Siegfried Mettbach um ein dauerhaftes Wohnrecht durch einen Miet- oder Pachtvertrag an der Obermeidericher Straße.
 - **2022**: Der Duisburger Sinti Verein e.V. wird gegründet und fordert in einem offenen Brief verbindliche Maßnahmen von der Stadtverwaltung.
 - **Seit 2025**: Der Verein führt Gespräche mit dem Amt für Soziales und Wohnen der Stadt Duisburg und der städtischen Wohnungsgesellschaft Gebag. Verhandelt wird eine Beschlussvorlage für den Rat, die die offizielle Anerkennung der Plätze als Sinti-Plätze sowie die Renovierung der defekten Wohncontainer vorsieht. Eine Entscheidung des Rates steht noch aus.
+- **November 2026**: Die Stadt Duisburg stoppt aus haushaltspolitischen Gründen die Finanzierung des geplanten Umbaus und stellt die offizielle Anerkennung der Plätze zurück. Der Verein fordert die Rücknahme der Absage und hat am 2. November 2026 einen Antrag beim Petitionsausschuss des Landtags NRW eingereicht (siehe [Pressemitteilung](/presse/2026-11-13-pm-stadt-stoppt-umbau-anerkennung-sinti-plaetze/)).
 
 Die Angst vor Vertreibung von den angestammten Wohnplätzen bleibt bis heute allgegenwärtig – die fehlende rechtliche Absicherung sorgt für anhaltende Unsicherheit, gerade für Familien mit Angehörigen, die den Holocaust überlebt haben.
 

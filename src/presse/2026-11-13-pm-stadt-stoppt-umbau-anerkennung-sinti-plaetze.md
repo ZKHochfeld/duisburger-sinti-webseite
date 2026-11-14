@@ -12,13 +12,13 @@ link:
 
 **Nach monatelangem Hinhalten und mehrfachem Nachfragen teilte die Verwaltung dem Duisburger Sinti Verein am 2. November erstmals ein Ergebnis mit. Der Umbau wird nicht finanziert, die Anerkennung der Plätze zurückgestellt. Der Verein hält die Begründungen für vorgeschoben und verweist auf Dokumente der Stadt selbst.**
 
-Die Stadt Duisburg hat dem Duisburger Sinti Verein e.V. am 2. November 2026 mündlich über die Gebag mitgeteilt, dass sie die Finanzierung des geplanten Umbaus der Sinti-Plätze stoppt und deren offizielle Anerkennung zurückstellt. Als Grund nennt sie den Haushalt. Der Verein weist darauf hin, dass die politische Anerkennung der Plätze für sich genommen keine Kosten verursacht. Sie wäre ein Ratsbeschluss, der erst in einem zweiten Schritt mit Umbaumaßnahmen verbunden werden müsste.
+Die Stadt Duisburg hat dem Duisburger Sinti Verein e.V. am 2. November 2026 mündlich über die WBD mitgeteilt, dass sie die Finanzierung des geplanten Umbaus der Sinti-Plätze stoppt und deren offizielle Anerkennung zurückstellt. Als Grund nennt sie den Haushalt. Der Verein weist darauf hin, dass die politische Anerkennung der Plätze für sich genommen keine Kosten verursacht. Sie wäre ein Ratsbeschluss, der erst in einem zweiten Schritt mit Umbaumaßnahmen verbunden werden müsste.
 
 > „Die Anerkennung unserer Plätze ist keine Frage des Haushalts, sondern eine Frage der Menschenwürde und der historischen Verantwortung. Wenn die Stadt ausgerechnet hier spart, setzt sie eine Ausgrenzung fort, die unsere Familien seit Jahrzehnten erleben“, sagt Siegfried Mettbach, erster Vorsitzender des Duisburger Sinti Vereins e.V.
 
 ## Monatelang hingehalten
 
-Seit 2025 hatte der Verein mit dem Amt für Soziales und Wohnen und der Gebag verhandelt. Die Verwaltung wollte eine Beschlussvorlage für den Rat vorbereiten, die die Anerkennung der Plätze und die Kosten der Erneuerung enthält. Die Vorlage wurde immer weiter verschoben. Zu einem Gespräch, in dem das Ergebnis mitgeteilt wurde, kam es erst nach mehrfachem Nachfragen des Vereins. Eine schriftliche Begründung liegt bislang nicht vor.
+Seit 2025 hatte der Verein mit dem Amt für Soziales und Wohnen und der WBD verhandelt. Die Verwaltung wollte eine Beschlussvorlage für den Rat vorbereiten, die die Anerkennung der Plätze und die Kosten der Erneuerung enthält. Die Vorlage wurde immer weiter verschoben. Zu einem Gespräch, in dem das Ergebnis mitgeteilt wurde, kam es erst nach mehrfachem Nachfragen des Vereins. Eine schriftliche Begründung liegt bislang nicht vor.
 
 ## Naturschutz und Baurecht als Vorwand
 
@@ -30,7 +30,7 @@ Auch das Zuzugsverbot für Familienangehörige beruht nicht auf einem Ratsbeschl
 
 ## Instandhaltung statt Entgegenkommen
 
-Ein Umbau kam überhaupt erst zur Diskussion, weil die Wohncontainer von ihrer Eigentümerin, der Stadt, in den vergangenen Jahren nur ungenügend instand gehalten wurden und perspektivisch erneuert werden müssen. Für die Plätze zuständig ist heute die Gebag. Die Bewohner:innen zahlen laut WAZ sieben Euro pro Quadratmeter, ohne reguläre Mietverträge zu haben. Aus Sicht des Vereins geht es damit nicht um ein Entgegenkommen der Stadt, sondern um die Folgen versäumter Instandhaltung. In Meiderich leben aktuell nur fünf Personen, der Kostenrahmen ist überschaubar.
+Ein Umbau kam überhaupt erst zur Diskussion, weil die Wohncontainer von ihrer Eigentümerin, der Stadt, in den vergangenen Jahren nur ungenügend instand gehalten wurden und perspektivisch erneuert werden müssen. Für die Plätze zuständig ist heute die WBD. Die Bewohner:innen zahlen laut WAZ sieben Euro pro Quadratmeter, ohne reguläre Mietverträge zu haben. Aus Sicht des Vereins geht es damit nicht um ein Entgegenkommen der Stadt, sondern um die Folgen versäumter Instandhaltung. In Meiderich leben aktuell nur fünf Personen, der Kostenrahmen ist überschaubar.
 
 Mit der politischen Anerkennung fordert der Verein außerdem, dass die Enkel der heutigen Bewohner:innen auf die Plätze ziehen dürfen. Das Zuzugsverbot trennt Familien über Generationen und verhindert, dass Ältere von ihren Angehörigen gepflegt werden können.
 

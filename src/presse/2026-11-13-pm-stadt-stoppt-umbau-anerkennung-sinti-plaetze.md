@@ -63,6 +63,13 @@ Der Verein hatte die Stadt in offenen Briefen 2022 und 2025 sowie zuletzt auf de
 
 Parallel hat Jasmin Mettbach am 2. November 2026 einen Antrag beim Petitionsausschuss des Landtags Nordrhein-Westfalen eingereicht, um die dauerhafte Sicherung und Anerkennung der Duisburger Sinti-Plätze auch dort zur Prüfung zu stellen. Die genannten Dokumente sind auf dieser Website einsehbar.
 
+## Zum Weiterschauen
+
+Die Einstufung der Minderheit als Obdachlose hat in Duisburg eine lange Geschichte. Zwei Filme des Filmemachers Rainer Komers dokumentieren sie.
+
+- „Zigeunerdorf“ im Gleisdreieck, [vimeo.com/1111437671](https://vimeo.com/1111437671)
+- Ja, wir sind Sinti, [vimeo.com/1226883286](https://vimeo.com/1226883286)
+
 **Hinweis für Redaktionen:** Gesprächs- und Fototermine auf den Plätzen sind nach Absprache möglich.
 
 **Pressekontakt**
